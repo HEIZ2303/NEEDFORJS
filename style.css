@@ -1,0 +1,11 @@
+.hide {
+  display: none;  
+}
+
+.car {
+    width: 50px;
+    height: 100px;
+    background: transparent url(./image/change.jpg) center / cover no-repeat;
+
+}
+  
